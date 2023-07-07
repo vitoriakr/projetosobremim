@@ -1,0 +1,59 @@
+
+header{
+    background-color: rgb(53, 7, 80) ;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.carta{
+    background-color: rgb(148, 118, 255);
+    width: 600px;
+    height: 900px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+   border-radius: 5%;
+   padding: 2% 4% 2% 4%;
+   text-align: left;
+   font-size:large;
+   box-shadow: 15px 10px black;
+}
+
+
+.fotos{
+    background-color:rgb(184, 149, 250);
+    width: 1250px;
+    height: 300px;
+    margin: 10% 2% 10% 2%;
+    border-radius: 20px;
+    padding: 3px 2% 10% 2%;
+}
+footer{
+    background-color: white;
+    height: 120px;
+    width: 100%;
+    margin-bottom: 0px;
+    text-align: center;
+    padding-top: 3%;
+ }
+
+.sobremim{
+ color: rgb(60, 0, 139);
+ font-size: x-large;
+text-align: center;
+font-family:'Times New Roman';
+}
+
+.f{
+    background-color: rgb(57, 8, 136);
+    border-radius: 5px;
+    font-size: x-large;
+    color: rgb(188, 135, 238);
+
+}
+.fv{
+ border-radius: 10%;
+ border: 5%;
+ margin-top: 3%;
+ padding-left: 7px;
+}
+
